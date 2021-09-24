@@ -16,7 +16,7 @@ public class Main {
             int m = in.nextInt();
             System.out.println(n * 2 + m * 3 + " Ochkov vsego");
         }
-        public static void func3() {
+        public static void fine2() {
             Scanner in = new Scanner(System.in);
             System.out.println("Enter kol-vo pobed:");
             int pob = in.nextInt();
@@ -83,7 +83,7 @@ public class Main {
             int i = in.nextInt();
             if (i == 1) func1();
             if (i == 2) fine1();
-            if (i == 3) func3();
+            if (i == 3) fine2();
             if (i == 4) func4();
             if (i == 5) func5();
             if (i == 6) func6();
