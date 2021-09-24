@@ -69,14 +69,14 @@ public class Main {
             int min = in.nextInt();
             System.out.println("Frames: " + fps * min * 60);
         }
-        /*public static void func10() {
+        public static void func10() {
             Scanner in = new Scanner(System.in);
             System.out.println("Enter the number:");
             double n = in.nextDouble();
             System.out.println("Enter the number:");
             int m = in.nextInt();
             System.out.println("Ostatok: " + (int)((n / m - (int)(n / m)) * m) );
-        }*/
+        }
         public static void main(String[] args) {
             Scanner in = new Scanner(System.in);
             System.out.println("Enter number of func (1-10): "); // выбор нужной функции чтобы не запускать сразу все
