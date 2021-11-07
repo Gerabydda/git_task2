@@ -83,10 +83,10 @@ public class Main {
             int i = in.nextInt();
             if (i == 1) func1();
             if (i == 2) fine1();
-            if (i == 3) fine2();
+            //if (i == 3) fine2();
             if (i == 4) func4();
             if (i == 5) func5();
-            if (i == 6) func6();
+            //if (i == 6) func6();
             if (i == 7) System.out.println(squaed(in.nextInt()));
             if (i == 8) func8();
             if (i == 9) func9();
