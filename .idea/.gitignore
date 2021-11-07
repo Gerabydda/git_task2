@@ -1,4 +1,4 @@
 # Default ignored files
-/.py
+*.xml
 /shelf/
 /workspace.xml
